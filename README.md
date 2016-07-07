@@ -1,0 +1,2 @@
+# dotnettrialcore
+dotnet
